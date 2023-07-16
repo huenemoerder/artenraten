@@ -1,94 +1,94 @@
-﻿Gruppe/Kurstag,Familie,Gattung,Art,Trivialname,Bestimmung Klausur optisch,Bestimmung Klausur akustisch,,,,,,,,
-Coleoptera,Carabidae,Amara,aenea,,Gattung (wissenschaftl.),,,,,,,,,
-,Carabidae,Carabus,coriaceus,,Art (wissenschaftl.),,,,,,,,,
-,Carabidae,Carabus ,auratus,,Art (wissenschaftl.),,,,,,,,,
-,Carabidae,Carabus ,hortensis,,Art (wissenschaftl.),,,,,,,,,
-,Carabidae,Harpalus ,rufipes,,Gattung (wissenschaftl.),,,,,,,,,
-,Carabidae,Poecilus ,cupreus ,,Gattung (wissenschaftl.),,,,,,,,,
-,Cleridae,Trichides ,apiarius,Gemeiner Bienenkäfer (Bienenwolf),Art,,,,,,,,,
-,Cantharidae,Rhagonycha,fulva,Roter Weichkäfer,Art Familie (deutsch),,,,,,,,,
-,Silphidae,Nicrophorus ,vespillo,Gemeiner Totengräber,Art Familie (wissenschaftl.),,,,,,,,,
-Hymenoptera,Andrenidae,Andrena,cineraria,Graue Sandbiene,Art,,,,,,,,,
-    Hautflügler,Andrenidae,Bombus,lapidarius,,Art,,,,,,,,,
-Bienen Hummeln,Andrenidae,Bombus,pascuorum,,Art,,,,,,,,,
-Hornissen Westen,Andrenidae,Bombus,terrestris aggr.,,Art,,,,,,,,,
-,Megachilidae,Osmia,bicornis,Rote Mauerbiene,Art,,,,,,,,,
-,Apidae,Apis,mellifera,Honigbiene,Art,,,,,,,,,
-,Halictidae,Halictus,,Furchenbienen,Gattung (wissenschaftl.),,,,,,,,,
-,Halictidae,Lasioglossum,,Fuchenbienen / Schmalbienen,Gattung (wissenschaftl.),,,,,,,,,
-Diptera,Syrphidae,Sphaerophoria ,scripta,Gewöhnliche Langbauchschwebfliege,Art,,,,,,,,,
-,Asilidae,,,Raubfliegen,Familie,,,,,,,,,
-Lepidoptera,Nymphalidae,Aglais,urticae,Kleiner Fuchs,Art,,,,,,,,,
-,Nymphalidae,Inachis,io,Tagpfauenauge,Art,,,,,,,,,
-,Nymphalidae,Vanessa,atalanta,Admiral,Art,,,,,,,,,
-,Nymphalidae,Argynnis,paphia,Kaisermantel,Art,,,,,,,,,
-,Satyridae,Maniola,jurtina,Großes Ochsenauge,Art,,,,,,,,,
-,Satyridae,Coenonympha,pamphilus,Kleines Wiesenvögelchen,Art,,,,,,,,,
-,Satyridae,Pararge,aegeria,Waldbrettspiel,Art,,,,,,,,,
-,Satyridae,Aphantopus ,hyperantus,Brauner Waldvogel,Art,,,,,,,,,
-,Pieridae,Anthocharis,cardamines,Aurorafalter,Art,,,,,,,,,
-,Pieridae,Gonepteryx,rhamni,Zitronenfalter,Art,,,,,,,,,
-,Pieridae,Pieris,napi,Grünader-Weißling,Art,,,,,,,,,
-,Pieridae,Pieris,brassicae,Großer Kohlweißling,Art,,,,,,,,,
-,Pieridae,Pieris,rapae,Kleiner Kohlweißling,Art,,,,,,,,,
-,Zygaenidae,Zygaena ,filipendulae,Sechsfleck-Widderchen,Art,,,,,,,,,
-,Lycaenidae,Polyommatus,icarus,Hauhechel-Bläuling,Familie,,,,,,,,,
-,Hesperidae,Thymelicus,lineola,Schwarzholbiger Braunkopf-Dickkopffalter,Art,,,,,,,,,
-,Erebidae,Tyria ,jacobaeae,Jakobskrautbär,Art,,,,,,,,,
-Odonata,Calopterygidae,Calopteryx,splendens,Gebänderte Prachtlibelle,Art,,,,,,,,,
-,Coenagrionidae,Coenagrion,puella,Hufeisen-Azurjungfer,Gattung,,,,,,,,,
-,Coenagrionidae,Enallagma,cyathigerum,Gemeine Becherjungfer,Gattung,,,,,,,,,
-,Coenagrionidae,Erythromma ,najas,Großes Granatauge,Gattung (deutsch),,,,,,,,,
-,Coenagrionidae,Pyrrhosoma,nymphula,Frühe Adonislibelle,Gattung,,,,,,,,,
-,Plarycnemididae,Platynemis,pennipes,Blaue Federlibelle,Familie (deutsch),,,,,,,,,
-,Aeschnidae,Anax,imperator,Große Königslibelle,Art,,,,,,,,,
-,Libellulidae,Libellula,depressa,Plattbauch,Art,,,,,,,,,
-,Libellulidae,Libellula,quadrimaculata,Vierfleck,Art,,,,,,,,,
-,Libellulidae,Sympetrum,saguineum,Blutrote Heidelibelle,Art,,,,,,,,,
-,Libellulidae,Orthetrum,cancellatum,Großer Blaupfeil,Art,,,,,,,,,
-,Libellulidae,Orthetrum,coerulescens,Kleiner Blaupfeil,Art,,,,,,,,,
-,Lestidae,Chalcolestes ,viridis,Gemeine Teichjungfer,Art,,,,,,,,,
-Orthoptera,Tettigoniidae,Roeseliana ,roeselii,Roesels-Beißschrecke,Art,Art,,,,,,,,
-,Tettigoniidae,Pholidoptera,griseoaptera,Gemeine Strauchschrecke,Art,Art,,,,,,,,
-,Tettigoniidae,Decticus,verrucivorus,Warzenbeißer,Art,Art,,,,,,,,
-,Tettigoniidae,Tettigonia,viridissima,Grünes Heupferd,Art,Art,,,,,,,,
-,Tettigoniidae,Leptophyes,punctatissima,Punktierte Zartschrecke,Art,,,,,,,,,
-,Acrididae,Omocestus,viridulus,Bunter Grashüpfer,,Art,,,,,,,,
-,Gryllidae,Gryllus,campestris,Feldgrille,Art,Art,,,,,,,,
-,Gryllidae,Gryllotalpa,gryllotalpa,Maulwurfsgrille,Art,,,,,,,,,
-,Acrididae,Chorthippus,apricarius,Feldgrashüpfer,Art,Art,,,,,,,,
-,Acrididae,Oedopoda,caerulescens,Blauflüglige Ödlandschrecke,Art,,,,,,,,,
-,Acrididae,Stethophyma ,grossum,Sumpfschrecke,Art,Art,,,,,,,,
-,Acrididae,Pseudochortippus,parallelus,Gemeiner Grashüpfer,Art,,,,,,,,,
-Heteroptera (Wanzen),Pentatominae,Dolycoris,baccarum,Beerenwanze,Art,,,,,,,,,
-,Pentatominae,Palomena,prasina,Grüne Stinkwanze,Art,,,,,,,,,
-,Scutelleridae,Eurygaster,testudinaria,Schildkrötenwanze,Art,,,,,,,,,
-Hemiptera (Schnabelkerfe),Cercopidae,Cercopis,vulnerata,Gemeine Blutzikade,Art,,,,,,,,,
-Passeriformes,Turdidae,Turdus,merula,Amsel,Art,,,,,,,,,
-,Turdidae,Turdus,philomelus,Singdrossel,Art,Art,,,,,,,,
-,Fringillidae,Fringilla,coelebs,Buchfink,Art,Art,,,,,,,,
-,Fringillidae,Pyrrhula,pyrrhula,Gimpel,Art,,,,,,,,,
-,Fringillidae,Chloris,chloris,Grünfink,Art,,,,,,,,,
-,Alaudidae,Alauda,arvensis,Feldlerche,Art,Art,,,,,,,,
-,Passeridae,Passer,montanus,Feldsperling,Art,,,,,,,,,
-,Passeridae,Passer,domesticus,Haussperling,Art,,,,,,,,,
-,Certhiidae,Certhia,brachydactyla,Gartenbaumläufer,,Art,,,,,,,,
-,Emberizidae,Emberiza,citrinella,Goldammer,Art,Art,,,,,,,,
-,Paridae,Parus,major,Kohlmeise,Art,,,,,,,,,
-,Paridae,Cyanistes,caerulus,Blaumeise,Art,,,,,,,,,
-,Sylviidae,Sylvia ,atricapilla,Mönchsgrasmücke,Art,,,,,,,,,
-,Muscicapidae,Erithacus,rubecula,Rotkehlchen,Art,,,,,,,,,
-,Muscicapidae,Phoenicurus,ochruros,Hausrotschwanz,Art,Art,,,,,,,,
-,Regulidae,Regulus,regulus,Wintergoldhähnchen,Art,Art,,,,,,,,
-,Troglodytidae,Troglodytes,troglodytes,Zaunkönig,Art,Art,,,,,,,,
-,Phylloscopidae,Phylloscopus,collybita,Zilpzalp,,Art,,,,,,,,
-,Picidae,Picus,viridis,Grünspecht,Art,Art,,,,,,,,
-,Sittidae,Sitta,europaea,Kleiber,Art,,,,,,,,,
-,Columbiformes,Columba,palumbus,Ringeltaube,Art,Art,,,,,,,,
-,Laniidae,Lanius,collurio,Neuntöter,Art,,,,,,,,,
-Chiroptera,Vespertilionidae,Eptesicus,serotinus,Breitflügelfledermaus,,Art (theoretisch),,,,,,,,
-,Vespertilionidae,Pipistrellus,pipistrellus,Zwergfledermaus,,Art (theoretisch),,,,,,,,
-,Vespertilionidae,Myosotis,daubentonii,Wasserfledermaus,,Art (theoretisch),,,,,,,,
-,Vespertilionidae,Nyctalus,noctula,Großer Abendsegler,,Art (theoretisch),,,,,,,,
-,Vespertilionidae,Pipistrellus,pygmaeus,Mückenfledermaus,,Art (theoretisch),,,,,,,,
-,Vespertilionidae,Pipistrellus,nathusii,Rauhautfledermaus,,Art (theoretisch),,,,,,,,
+﻿Gruppe/Kurstag,Familie,Gattung,Art,Trivialname,Bestimmung Klausur optisch,Bestimmung Klausur akustisch
+Coleoptera,Carabidae,Amara,aenea,,Gattung (wissenschaftl.)
+,Carabidae,Carabus,coriaceus,,Art (wissenschaftl.)
+,Carabidae,Carabus ,auratus,,Art (wissenschaftl.)
+,Carabidae,Carabus ,hortensis,,Art (wissenschaftl.)
+,Carabidae,Harpalus ,rufipes,,Gattung (wissenschaftl.)
+,Carabidae,Poecilus ,cupreus ,,Gattung (wissenschaftl.)
+,Cleridae,Trichides ,apiarius,Gemeiner Bienenkäfer (Bienenwolf),Art
+,Cantharidae,Rhagonycha,fulva,Roter Weichkäfer,Art Familie (deutsch)
+,Silphidae,Nicrophorus ,vespillo,Gemeiner Totengräber,Art Familie (wissenschaftl.)
+Hymenoptera,Andrenidae,Andrena,cineraria,Graue Sandbiene,Art
+    Hautflügler,Andrenidae,Bombus,lapidarius,,Art
+Bienen Hummeln,Andrenidae,Bombus,pascuorum,,Art
+Hornissen Westen,Andrenidae,Bombus,terrestris aggr.,,Art
+,Megachilidae,Osmia,bicornis,Rote Mauerbiene,Art
+,Apidae,Apis,mellifera,Honigbiene,Art
+,Halictidae,Halictus,,Furchenbienen,Gattung (wissenschaftl.)
+,Halictidae,Lasioglossum,,Fuchenbienen / Schmalbienen,Gattung (wissenschaftl.)
+Diptera,Syrphidae,Sphaerophoria ,scripta,Gewöhnliche Langbauchschwebfliege,Art
+,Asilidae,,,Raubfliegen,Familie
+Lepidoptera,Nymphalidae,Aglais,urticae,Kleiner Fuchs,Art
+,Nymphalidae,Inachis,io,Tagpfauenauge,Art
+,Nymphalidae,Vanessa,atalanta,Admiral,Art
+,Nymphalidae,Argynnis,paphia,Kaisermantel,Art
+,Satyridae,Maniola,jurtina,Großes Ochsenauge,Art
+,Satyridae,Coenonympha,pamphilus,Kleines Wiesenvögelchen,Art
+,Satyridae,Pararge,aegeria,Waldbrettspiel,Art
+,Satyridae,Aphantopus ,hyperantus,Brauner Waldvogel,Art
+,Pieridae,Anthocharis,cardamines,Aurorafalter,Art
+,Pieridae,Gonepteryx,rhamni,Zitronenfalter,Art
+,Pieridae,Pieris,napi,Grünader-Weißling,Art
+,Pieridae,Pieris,brassicae,Großer Kohlweißling,Art
+,Pieridae,Pieris,rapae,Kleiner Kohlweißling,Art
+,Zygaenidae,Zygaena ,filipendulae,Sechsfleck-Widderchen,Art
+,Lycaenidae,Polyommatus,icarus,Hauhechel-Bläuling,Familie
+,Hesperidae,Thymelicus,lineola,Schwarzholbiger Braunkopf-Dickkopffalter,Art
+,Erebidae,Tyria ,jacobaeae,Jakobskrautbär,Art
+Odonata,Calopterygidae,Calopteryx,splendens,Gebänderte Prachtlibelle,Art
+,Coenagrionidae,Coenagrion,puella,Hufeisen-Azurjungfer,Gattung
+,Coenagrionidae,Enallagma,cyathigerum,Gemeine Becherjungfer,Gattung
+,Coenagrionidae,Erythromma ,najas,Großes Granatauge,Gattung (deutsch)
+,Coenagrionidae,Pyrrhosoma,nymphula,Frühe Adonislibelle,Gattung
+,Plarycnemididae,Platynemis,pennipes,Blaue Federlibelle,Familie (deutsch)
+,Aeschnidae,Anax,imperator,Große Königslibelle,Art
+,Libellulidae,Libellula,depressa,Plattbauch,Art
+,Libellulidae,Libellula,quadrimaculata,Vierfleck,Art
+,Libellulidae,Sympetrum,saguineum,Blutrote Heidelibelle,Art
+,Libellulidae,Orthetrum,cancellatum,Großer Blaupfeil,Art
+,Libellulidae,Orthetrum,coerulescens,Kleiner Blaupfeil,Art
+,Lestidae,Chalcolestes ,viridis,Gemeine Teichjungfer,Art
+Orthoptera,Tettigoniidae,Roeseliana ,roeselii,Roesels-Beißschrecke,Art,Art
+,Tettigoniidae,Pholidoptera,griseoaptera,Gemeine Strauchschrecke,Art,Art
+,Tettigoniidae,Decticus,verrucivorus,Warzenbeißer,Art,Art
+,Tettigoniidae,Tettigonia,viridissima,Grünes Heupferd,Art,Art
+,Tettigoniidae,Leptophyes,punctatissima,Punktierte Zartschrecke,Art
+,Acrididae,Omocestus,viridulus,Bunter Grashüpfer,,Art
+,Gryllidae,Gryllus,campestris,Feldgrille,Art,Art
+,Gryllidae,Gryllotalpa,gryllotalpa,Maulwurfsgrille,Art
+,Acrididae,Chorthippus,apricarius,Feldgrashüpfer,Art,Art
+,Acrididae,Oedopoda,caerulescens,Blauflüglige Ödlandschrecke,Art
+,Acrididae,Stethophyma ,grossum,Sumpfschrecke,Art,Art
+,Acrididae,Pseudochortippus,parallelus,Gemeiner Grashüpfer,Art
+Heteroptera (Wanzen),Pentatominae,Dolycoris,baccarum,Beerenwanze,Art
+,Pentatominae,Palomena,prasina,Grüne Stinkwanze,Art
+,Scutelleridae,Eurygaster,testudinaria,Schildkrötenwanze,Art
+Hemiptera (Schnabelkerfe),Cercopidae,Cercopis,vulnerata,Gemeine Blutzikade,Art
+Passeriformes,Turdidae,Turdus,merula,Amsel,Art
+,Turdidae,Turdus,philomelus,Singdrossel,Art,Art
+,Fringillidae,Fringilla,coelebs,Buchfink,Art,Art
+,Fringillidae,Pyrrhula,pyrrhula,Gimpel,Art
+,Fringillidae,Chloris,chloris,Grünfink,Art
+,Alaudidae,Alauda,arvensis,Feldlerche,Art,Art
+,Passeridae,Passer,montanus,Feldsperling,Art
+,Passeridae,Passer,domesticus,Haussperling,Art
+,Certhiidae,Certhia,brachydactyla,Gartenbaumläufer,,Art
+,Emberizidae,Emberiza,citrinella,Goldammer,Art,Art
+,Paridae,Parus,major,Kohlmeise,Art
+,Paridae,Cyanistes,caerulus,Blaumeise,Art
+,Sylviidae,Sylvia ,atricapilla,Mönchsgrasmücke,Art
+,Muscicapidae,Erithacus,rubecula,Rotkehlchen,Art
+,Muscicapidae,Phoenicurus,ochruros,Hausrotschwanz,Art,Art
+,Regulidae,Regulus,regulus,Wintergoldhähnchen,Art,Art
+,Troglodytidae,Troglodytes,troglodytes,Zaunkönig,Art,Art
+,Phylloscopidae,Phylloscopus,collybita,Zilpzalp,,Art
+,Picidae,Picus,viridis,Grünspecht,Art,Art
+,Sittidae,Sitta,europaea,Kleiber,Art
+,Columbiformes,Columba,palumbus,Ringeltaube,Art,Art
+,Laniidae,Lanius,collurio,Neuntöter,Art
+Chiroptera,Vespertilionidae,Eptesicus,serotinus,Breitflügelfledermaus,,Art (theoretisch)
+,Vespertilionidae,Pipistrellus,pipistrellus,Zwergfledermaus,,Art (theoretisch)
+,Vespertilionidae,Myosotis,daubentonii,Wasserfledermaus,,Art (theoretisch)
+,Vespertilionidae,Nyctalus,noctula,Großer Abendsegler,,Art (theoretisch)
+,Vespertilionidae,Pipistrellus,pygmaeus,Mückenfledermaus,,Art (theoretisch)
+,Vespertilionidae,Pipistrellus,nathusii,Rauhautfledermaus,,Art (theoretisch)
