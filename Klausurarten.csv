@@ -52,40 +52,40 @@ Orthoptera,Tettigoniidae,Roeseliana ,roeselii,Roesels-Beißschrecke,Art,Art
 ,Tettigoniidae,Pholidoptera,griseoaptera,Gemeine Strauchschrecke,Art,Art
 ,Tettigoniidae,Decticus,verrucivorus,Warzenbeißer,Art,Art
 ,Tettigoniidae,Tettigonia,viridissima,Grünes Heupferd,Art,Art
-,Tettigoniidae,Leptophyes,punctatissima,Punktierte Zartschrecke,Art
+,Tettigoniidae,Leptophyes,punctatissima,Punktierte Zartschrecke,Art,
 ,Acrididae,Omocestus,viridulus,Bunter Grashüpfer,,Art
-,Gryllidae,Gryllus,campestris,Feldgrille,Art,Art
-,Gryllidae,Gryllotalpa,gryllotalpa,Maulwurfsgrille,Art
+,Gryllidae,Gryllus,campestris,Feldgrille,Art,Art,
+,Gryllidae,Gryllotalpa,gryllotalpa,Maulwurfsgrille,Art,
 ,Acrididae,Chorthippus,apricarius,Feldgrashüpfer,Art,Art
-,Acrididae,Oedopoda,caerulescens,Blauflüglige Ödlandschrecke,Art
+,Acrididae,Oedopoda,caerulescens,Blauflüglige Ödlandschrecke,Art,
 ,Acrididae,Stethophyma ,grossum,Sumpfschrecke,Art,Art
-,Acrididae,Pseudochortippus,parallelus,Gemeiner Grashüpfer,Art
-Heteroptera (Wanzen),Pentatominae,Dolycoris,baccarum,Beerenwanze,Art
-,Pentatominae,Palomena,prasina,Grüne Stinkwanze,Art
-,Scutelleridae,Eurygaster,testudinaria,Schildkrötenwanze,Art
-Hemiptera (Schnabelkerfe),Cercopidae,Cercopis,vulnerata,Gemeine Blutzikade,Art
-Passeriformes,Turdidae,Turdus,merula,Amsel,Art
+,Acrididae,Pseudochortippus,parallelus,Gemeiner Grashüpfer,Art,
+Heteroptera (Wanzen),Pentatominae,Dolycoris,baccarum,Beerenwanze,Art,
+,Pentatominae,Palomena,prasina,Grüne Stinkwanze,Art,
+,Scutelleridae,Eurygaster,testudinaria,Schildkrötenwanze,Art,
+Hemiptera (Schnabelkerfe),Cercopidae,Cercopis,vulnerata,Gemeine Blutzikade,Art,
+Passeriformes,Turdidae,Turdus,merula,Amsel,Art,
 ,Turdidae,Turdus,philomelus,Singdrossel,Art,Art
 ,Fringillidae,Fringilla,coelebs,Buchfink,Art,Art
-,Fringillidae,Pyrrhula,pyrrhula,Gimpel,Art
-,Fringillidae,Chloris,chloris,Grünfink,Art
+,Fringillidae,Pyrrhula,pyrrhula,Gimpel,Art,
+,Fringillidae,Chloris,chloris,Grünfink,Art,
 ,Alaudidae,Alauda,arvensis,Feldlerche,Art,Art
-,Passeridae,Passer,montanus,Feldsperling,Art
-,Passeridae,Passer,domesticus,Haussperling,Art
+,Passeridae,Passer,montanus,Feldsperling,Art,
+,Passeridae,Passer,domesticus,Haussperling,Art,
 ,Certhiidae,Certhia,brachydactyla,Gartenbaumläufer,,Art
 ,Emberizidae,Emberiza,citrinella,Goldammer,Art,Art
-,Paridae,Parus,major,Kohlmeise,Art
-,Paridae,Cyanistes,caerulus,Blaumeise,Art
-,Sylviidae,Sylvia ,atricapilla,Mönchsgrasmücke,Art
-,Muscicapidae,Erithacus,rubecula,Rotkehlchen,Art
+,Paridae,Parus,major,Kohlmeise,Art,
+,Paridae,Cyanistes,caerulus,Blaumeise,Art,
+,Sylviidae,Sylvia ,atricapilla,Mönchsgrasmücke,Art,
+,Muscicapidae,Erithacus,rubecula,Rotkehlchen,Art,
 ,Muscicapidae,Phoenicurus,ochruros,Hausrotschwanz,Art,Art
 ,Regulidae,Regulus,regulus,Wintergoldhähnchen,Art,Art
 ,Troglodytidae,Troglodytes,troglodytes,Zaunkönig,Art,Art
 ,Phylloscopidae,Phylloscopus,collybita,Zilpzalp,,Art
 ,Picidae,Picus,viridis,Grünspecht,Art,Art
-,Sittidae,Sitta,europaea,Kleiber,Art
+,Sittidae,Sitta,europaea,Kleiber,Art,
 ,Columbiformes,Columba,palumbus,Ringeltaube,Art,Art
-,Laniidae,Lanius,collurio,Neuntöter,Art
+,Laniidae,Lanius,collurio,Neuntöter,Art,
 Chiroptera,Vespertilionidae,Eptesicus,serotinus,Breitflügelfledermaus,,Art (theoretisch)
 ,Vespertilionidae,Pipistrellus,pipistrellus,Zwergfledermaus,,Art (theoretisch)
 ,Vespertilionidae,Myosotis,daubentonii,Wasserfledermaus,,Art (theoretisch)
